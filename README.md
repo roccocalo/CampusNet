@@ -4,7 +4,6 @@ CampusNet is a web application designed to create a unified digital space for th
 
 ## Preview
 ![CampusNet Preview](public/assets/images/campusnet-screen-login.png)
-*Replace with actual screenshot of your application*
 
 ## Key Features
 - Social networking focused on academic life
