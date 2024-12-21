@@ -31,7 +31,7 @@ VITE_APPWRITE_SAVES_COLLECTION_ID=
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/campusnet.git
+git clone https://github.com/roccocalo/CampusNet.git
 ```
 
 2. Install dependencies
@@ -51,4 +51,4 @@ The application should now be running at `http://localhost:5173`
 - Tailwind CSS
 - AppWrite
 - React Query
-- Shadcn/ui
+
